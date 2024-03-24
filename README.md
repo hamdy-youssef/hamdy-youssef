@@ -63,6 +63,13 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
     </kbd>
+    <kbd>Mobile</kbd>
+      <br>
+      <br>
+        <img width="30px" src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8ed3d547-94ff-48e1-9f20-8c14a7030a02_2000x2000.jpeg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
+    </kbd>
     <kbd>
       <kbd>Back-end</kbd>
       <br>
@@ -70,13 +77,6 @@
       <img width="30px" src="https://s3-ap-southeast-1.amazonaws.com/homepage-media/wp-content/uploads/2020/03/04092434/NET_Core_Logo.png" />
     </kbd>
      <kbd>
-      <kbd>Mobile</kbd>
-      <br>
-      <br>
-        <img width="30px" src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8ed3d547-94ff-48e1-9f20-8c14a7030a02_2000x2000.jpeg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
-    </kbd>
     <kbd>
       <kbd>Front-end</kbd>
       <br>
@@ -133,7 +133,7 @@
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about IOS development, feel free to <a href="hamdyyoussef962@gmail.com">contact me by email</a>, I won't bite, I promise.
+If you have any questions about IOS development, feel free to <a href="mailto:hamdyyoussef962@gmail.com">contact me by email</a>, I won't bite, I promise.
 
   </td>
   <td width="50%" valign="top">
@@ -158,7 +158,7 @@ If you have any questions about IOS development, feel free to <a href="hamdyyous
 
 <div align=center>
   <a href="https://www.linkedin.com/in/hamdy-youssef--140127205/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
-  <a href="mailto:hamdyyoussef962@gmail.com?subject=Hi%20William%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
+  <a href="mailto:hamdyyoussef962@gmail.com?subject=Hi%20Hamdy%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 </div>
 
 -----
